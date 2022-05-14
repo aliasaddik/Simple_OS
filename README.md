@@ -1,4 +1,6 @@
 # Simple_OS
+Simple emulation to a simple Operating system
+
 This OS includes 
 1.an interpreter that reads the txt files and executes their code.
 2. Scheduler is responsible for scheduling between the processes in the Ready queue.
